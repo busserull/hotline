@@ -4957,7 +4957,7 @@
 		(uuid "0c1f5722-e26c-4352-a3f8-a4f0bf4d9a67")
 	)
 	(label "RDP"
-		(at 93.98 160.02 180)
+		(at 93.98 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4967,7 +4967,7 @@
 		(uuid "16ff94dd-f1df-4940-91ba-dc3fecfff4e6")
 	)
 	(label "LE"
-		(at 24.13 154.94 0)
+		(at 24.13 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5007,7 +5007,7 @@
 		(uuid "249b431b-5f8e-4dc4-8cf2-6ee28f0460d3")
 	)
 	(label "LG"
-		(at 24.13 160.02 0)
+		(at 24.13 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5027,7 +5027,7 @@
 		(uuid "2f24f58a-e074-4fdd-9d39-16035163a087")
 	)
 	(label "LDP"
-		(at 24.13 162.56 0)
+		(at 24.13 167.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5037,7 +5037,7 @@
 		(uuid "30cf9ba4-955f-498c-9022-2b740a81a82e")
 	)
 	(label "BUTTON_R"
-		(at 24.13 167.64 0)
+		(at 24.13 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5047,7 +5047,7 @@
 		(uuid "556d4033-19cb-437b-a874-e7364189fbaa")
 	)
 	(label "LA"
-		(at 24.13 127 0)
+		(at 24.13 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5077,12 +5077,12 @@
 		(uuid "619589d9-919c-43f9-a767-f963603e6f9e")
 	)
 	(label "BUTTON_L"
-		(at 24.13 165.1 0)
+		(at 93.98 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "627f83cf-f152-4648-b564-23870110f509")
 	)
@@ -5107,7 +5107,7 @@
 		(uuid "6e4c8c8d-b963-4d14-93b5-8e03e87b4d83")
 	)
 	(label "RD"
-		(at 93.98 147.32 180)
+		(at 93.98 154.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5117,7 +5117,7 @@
 		(uuid "6f1966ff-913e-4c73-aa71-363431ef72a7")
 	)
 	(label "RE"
-		(at 93.98 152.4 180)
+		(at 93.98 157.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5147,12 +5147,12 @@
 		(uuid "79b91f4e-6d47-45cd-ba1d-96ba8030842b")
 	)
 	(label "RF"
-		(at 93.98 154.94 180)
+		(at 24.13 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "7b1cff2a-695b-4356-aa72-76587a8adf75")
 	)
@@ -5217,7 +5217,7 @@
 		(uuid "912d3b4f-2748-4fdb-8ef0-c2f0b4165850")
 	)
 	(label "RG"
-		(at 93.98 157.48 180)
+		(at 93.98 160.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5227,7 +5227,7 @@
 		(uuid "95058546-5d70-41eb-82a9-2a1c311ddd54")
 	)
 	(label "LC"
-		(at 24.13 134.62 0)
+		(at 24.13 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5247,7 +5247,7 @@
 		(uuid "aabf7ea5-81d7-40e5-a4d7-b7d4b4a157ce")
 	)
 	(label "LB"
-		(at 24.13 129.54 0)
+		(at 24.13 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5257,12 +5257,12 @@
 		(uuid "b3b92ea9-32a4-417e-ad24-06cbb7ce7211")
 	)
 	(label "LF"
-		(at 24.13 157.48 0)
+		(at 93.98 137.16 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "c4c5566b-c370-42d9-b22a-c65270556166")
 	)
@@ -5297,17 +5297,17 @@
 		(uuid "c9d58b32-82d8-40cc-bd1d-4fcf30843c8e")
 	)
 	(label "RA"
-		(at 93.98 134.62 180)
+		(at 24.13 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "cbd9946e-57a9-4f63-9d39-06d17ab14ecb")
 	)
 	(label "RB"
-		(at 93.98 137.16 180)
+		(at 93.98 147.32 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7793,7 +7793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad"
 			(at 248.92 100.33 0)
 			(effects
 				(font
@@ -8121,7 +8121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad"
 			(at 220.98 91.44 0)
 			(effects
 				(font
@@ -8390,7 +8390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad"
 			(at 220.98 100.33 0)
 			(effects
 				(font
@@ -9184,7 +9184,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad"
 			(at 248.92 91.44 0)
 			(effects
 				(font
@@ -10478,7 +10478,7 @@
 			)
 		)
 		(pin "AUDIO_L" input
-			(at 105.41 167.64 180)
+			(at 105.41 170.18 180)
 			(uuid "dbbaec1a-81dd-4690-b9b3-89f41471d669")
 			(effects
 				(font
@@ -10488,7 +10488,7 @@
 			)
 		)
 		(pin "AUDIO_R" input
-			(at 105.41 170.18 180)
+			(at 105.41 167.64 180)
 			(uuid "c2f34cbd-d330-44c1-acca-9a19fa4a6152")
 			(effects
 				(font
